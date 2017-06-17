@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1497417267 source:c:\users\win\desktop\projeto\projeto final 2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+
+1497640986 source:c:\users\labinfo\videos\projeto final 2\main.cpp
+	<iostream>
+	<cstring>
+	<cstdlib>
+	<fstream>
+
